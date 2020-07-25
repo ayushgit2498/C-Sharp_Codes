@@ -1,0 +1,19 @@
+C# is based on dotnet framework.
+Dotnet framework consists of
+	1.) CLR(Common Language Runtime) - CLR converts Intermediate Language to Native(Machine) Code of respective OS.
+	2.)Class Library - Class Libraries are used to write the c# applications.
+
+	C# Source Code
+			|
+	Intermeditae Language Code(Compiled Code)
+			|
+	Native Code(Converted from Intermediate Language Code by CLR of respective OS)
+
+C# is platform independent.C# code written in Windows or any other OS is compiled to Intermediate Language Code.Now this Intermediate Language Code can be converted to Native(Machine) Code on the OS on which you want to run the C# application.This conversion of Intermediate Language Code to Native Code is done by the respective CLR version of that particular OS.
+(we can say that when we convert Intermediate Language Code to Native(Machine) Code means we are running the C# application)
+
+Reasons to use C#
+1.)Platform Independent
+2.)Strongly Typed - Need to specify type of variable before use.
+3.)Compiled Language - When we compile the code we can get to know about the syntactical errors made which can be avoided.
+4.)Object Oriented Programming Language.
