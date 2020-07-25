@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/bin/Debug/netcoreapp3.1/Arrays
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache

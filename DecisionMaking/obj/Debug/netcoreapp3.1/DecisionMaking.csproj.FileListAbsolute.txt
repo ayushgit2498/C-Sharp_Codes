@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/bin/Debug/netcoreapp3.1/DecisionMaking
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/bin/Debug/netcoreapp3.1/DecisionMaking.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/bin/Debug/netcoreapp3.1/DecisionMaking.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/bin/Debug/netcoreapp3.1/DecisionMaking.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/bin/Debug/netcoreapp3.1/DecisionMaking.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/bin/Debug/netcoreapp3.1/DecisionMaking.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/DecisionMaking/obj/Debug/netcoreapp3.1/DecisionMaking.genruntimeconfig.cache

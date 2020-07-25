@@ -1,0 +1,11 @@
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\bin\Debug\netcoreapp2.1\HelloWorldWindows.deps.json
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\bin\Debug\netcoreapp2.1\HelloWorldWindows.runtimeconfig.json
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\bin\Debug\netcoreapp2.1\HelloWorldWindows.runtimeconfig.dev.json
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\bin\Debug\netcoreapp2.1\HelloWorldWindows.dll
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\bin\Debug\netcoreapp2.1\HelloWorldWindows.pdb
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\obj\Debug\netcoreapp2.1\HelloWorldWindows.csprojAssemblyReference.cache
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\obj\Debug\netcoreapp2.1\HelloWorldWindows.csproj.CoreCompileInputs.cache
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\obj\Debug\netcoreapp2.1\HelloWorldWindows.AssemblyInfoInputs.cache
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\obj\Debug\netcoreapp2.1\HelloWorldWindows.AssemblyInfo.cs
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\obj\Debug\netcoreapp2.1\HelloWorldWindows.dll
+G:\Courses\C#\Projects\HelloWorldWindows\HelloWorldWindows\obj\Debug\netcoreapp2.1\HelloWorldWindows.pdb

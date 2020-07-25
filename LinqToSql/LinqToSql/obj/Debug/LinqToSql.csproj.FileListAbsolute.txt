@@ -1,0 +1,15 @@
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csprojAssemblyReference.cache
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\MainWindow.g.cs
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\App.g.cs
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.cache
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.lref
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\MainWindow.baml
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.g.resources
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+G:\Courses\C#\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb

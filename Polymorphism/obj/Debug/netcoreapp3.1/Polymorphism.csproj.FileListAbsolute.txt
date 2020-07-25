@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/bin/Debug/netcoreapp3.1/AdvancedCSharpConcepts
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/bin/Debug/netcoreapp3.1/AdvancedCSharpConcepts.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/bin/Debug/netcoreapp3.1/AdvancedCSharpConcepts.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/bin/Debug/netcoreapp3.1/AdvancedCSharpConcepts.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/bin/Debug/netcoreapp3.1/AdvancedCSharpConcepts.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/bin/Debug/netcoreapp3.1/AdvancedCSharpConcepts.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/AdvancedCSharpConcepts/obj/Debug/netcoreapp3.1/AdvancedCSharpConcepts.genruntimeconfig.cache

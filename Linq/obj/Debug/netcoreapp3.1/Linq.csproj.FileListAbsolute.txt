@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/bin/Debug/netcoreapp3.1/Linq
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/bin/Debug/netcoreapp3.1/Linq.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/bin/Debug/netcoreapp3.1/Linq.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/bin/Debug/netcoreapp3.1/Linq.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Linq/obj/Debug/netcoreapp3.1/Linq.genruntimeconfig.cache

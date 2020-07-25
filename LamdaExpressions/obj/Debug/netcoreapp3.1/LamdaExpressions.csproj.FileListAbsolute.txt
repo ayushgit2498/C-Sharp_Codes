@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/bin/Debug/netcoreapp3.1/LamdaExpressions
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/bin/Debug/netcoreapp3.1/LamdaExpressions.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/bin/Debug/netcoreapp3.1/LamdaExpressions.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/bin/Debug/netcoreapp3.1/LamdaExpressions.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/bin/Debug/netcoreapp3.1/LamdaExpressions.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/bin/Debug/netcoreapp3.1/LamdaExpressions.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/LamdaExpressions/obj/Debug/netcoreapp3.1/LamdaExpressions.genruntimeconfig.cache

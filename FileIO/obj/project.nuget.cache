@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mstL4Fg7UoG8f277XKVUTkJf7+Dtk645DnlBgW9hVGb9+tN6ik0BUp7Q79pBJMgc0q8Vy+LvxK4QyGS9v4vbew==",
+  "success": true,
+  "projectFilePath": "/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/FileIO.csproj",
+  "expectedPackageFiles": [
+    "/home/blazehunter/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

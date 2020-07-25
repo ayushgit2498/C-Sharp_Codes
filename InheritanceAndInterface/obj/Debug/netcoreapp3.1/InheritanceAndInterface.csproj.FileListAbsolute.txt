@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/bin/Debug/netcoreapp3.1/InheritanceAndInterface
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/bin/Debug/netcoreapp3.1/InheritanceAndInterface.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/bin/Debug/netcoreapp3.1/InheritanceAndInterface.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/bin/Debug/netcoreapp3.1/InheritanceAndInterface.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/bin/Debug/netcoreapp3.1/InheritanceAndInterface.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/bin/Debug/netcoreapp3.1/InheritanceAndInterface.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/InheritanceAndInterface/obj/Debug/netcoreapp3.1/InheritanceAndInterface.genruntimeconfig.cache

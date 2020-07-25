@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/bin/Debug/netcoreapp3.1/FileIO
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/bin/Debug/netcoreapp3.1/FileIO.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/bin/Debug/netcoreapp3.1/FileIO.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/bin/Debug/netcoreapp3.1/FileIO.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/bin/Debug/netcoreapp3.1/FileIO.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/bin/Debug/netcoreapp3.1/FileIO.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/FileIO/obj/Debug/netcoreapp3.1/FileIO.genruntimeconfig.cache

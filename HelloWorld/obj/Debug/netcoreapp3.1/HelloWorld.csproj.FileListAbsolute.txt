@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

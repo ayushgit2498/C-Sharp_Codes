@@ -1,0 +1,13 @@
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/bin/Debug/netcoreapp3.1/Loops
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/bin/Debug/netcoreapp3.1/Loops.deps.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.dev.json
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/bin/Debug/netcoreapp3.1/Loops.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/bin/Debug/netcoreapp3.1/Loops.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.csprojAssemblyReference.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.csproj.CoreCompileInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfoInputs.cache
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfo.cs
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.dll
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.pdb
+/home/blazehunter/College/Languages&courses/C#/Projects/Loops/obj/Debug/netcoreapp3.1/Loops.genruntimeconfig.cache
